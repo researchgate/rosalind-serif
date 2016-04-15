@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ldot" format="1">
+  <advance width="1137"/>
+  <unicode hex="013F"/>
+  <note>
+	Ldot
+  </note>
+  <outline>
+    <contour>
+      <point x="250" y="94" type="line"/>
+      <point x="250" y="1242" type="line"/>
+      <point x="99" y="1262" type="line"/>
+      <point x="99" y="1339" type="line"/>
+      <point x="578" y="1339" type="line"/>
+      <point x="578" y="1262" type="line"/>
+      <point x="399" y="1243" type="line"/>
+      <point x="399" y="94" type="line"/>
+      <point x="912" y="107" type="line"/>
+      <point x="1013" y="390" type="line"/>
+      <point x="1099" y="375" type="line"/>
+      <point x="1033" y="0" type="line"/>
+      <point x="96" y="0" type="line"/>
+      <point x="96" y="77" type="line"/>
+    </contour>
+    <contour>
+      <point x="749" y="768"/>
+      <point x="774" y="807"/>
+      <point x="810" y="828" type="curve" smooth="yes"/>
+      <point x="828" y="839"/>
+      <point x="847" y="844"/>
+      <point x="866" y="844" type="curve" smooth="yes"/>
+      <point x="930" y="844"/>
+      <point x="963" y="801"/>
+      <point x="963" y="742" type="curve" smooth="yes"/>
+      <point x="963" y="697"/>
+      <point x="940" y="659"/>
+      <point x="905" y="639" type="curve" smooth="yes"/>
+      <point x="887" y="629"/>
+      <point x="868" y="624"/>
+      <point x="847" y="624" type="curve" smooth="yes"/>
+      <point x="794" y="624"/>
+      <point x="749" y="665"/>
+      <point x="749" y="725" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

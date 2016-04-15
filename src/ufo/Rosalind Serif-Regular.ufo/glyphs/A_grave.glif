@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Agrave" format="1">
+  <advance width="1246"/>
+  <unicode hex="00C0"/>
+  <note>
+	Agrave
+  </note>
+  <outline>
+    <contour>
+      <point x="82" y="117" type="line"/>
+      <point x="516" y="1350" type="line"/>
+      <point x="725" y="1350" type="line"/>
+      <point x="1162" y="117" type="line"/>
+      <point x="1274" y="96" type="line"/>
+      <point x="1274" y="0" type="line"/>
+      <point x="791" y="0" type="line"/>
+      <point x="791" y="96" type="line"/>
+      <point x="935" y="117" type="line"/>
+      <point x="851" y="374" type="line"/>
+      <point x="334" y="374" type="line"/>
+      <point x="253" y="117" type="line"/>
+      <point x="404" y="96" type="line"/>
+      <point x="404" y="0" type="line"/>
+      <point x="-29" y="0" type="line"/>
+      <point x="-30" y="96" type="line"/>
+    </contour>
+    <contour>
+      <point x="815" y="486" type="line"/>
+      <point x="627" y="1064" type="line"/>
+      <point x="588" y="1212" type="line"/>
+      <point x="549" y="1062" type="line"/>
+      <point x="369" y="486" type="line"/>
+    </contour>
+    <contour>
+      <point x="481" y="1771" type="line"/>
+      <point x="482" y="1771" type="line"/>
+      <point x="774" y="1497" type="line"/>
+      <point x="703" y="1437" type="line"/>
+      <point x="702" y="1437" type="line"/>
+      <point x="645" y="1456"/>
+      <point x="532" y="1512"/>
+      <point x="443" y="1573" type="curve" smooth="yes"/>
+      <point x="398" y="1604"/>
+      <point x="367" y="1632"/>
+      <point x="348" y="1659" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="1">
+  <advance width="1048"/>
+  <unicode hex="0138"/>
+  <note>
+	kgreenlandic
+  </note>
+  <outline>
+    <contour>
+      <point x="91" y="879" type="line"/>
+      <point x="105" y="955" type="line"/>
+      <point x="427" y="1000" type="line"/>
+      <point x="471" y="980" type="line"/>
+      <point x="349" y="0" type="line"/>
+      <point x="71" y="0" type="line"/>
+      <point x="183" y="827" type="line"/>
+    </contour>
+    <contour>
+      <point x="789" y="992" type="line"/>
+      <point x="1023" y="992" type="line"/>
+      <point x="661" y="572" type="line"/>
+      <point x="824" y="236" type="line"/>
+      <point x="851" y="185"/>
+      <point x="887" y="157"/>
+      <point x="916" y="157" type="curve" smooth="yes"/>
+      <point x="939" y="157"/>
+      <point x="984" y="172"/>
+      <point x="1016" y="196" type="curve"/>
+      <point x="1045" y="135" type="line"/>
+      <point x="1014" y="98"/>
+      <point x="957" y="47"/>
+      <point x="876" y="11" type="curve" smooth="yes"/>
+      <point x="835" y="-7"/>
+      <point x="793" y="-16"/>
+      <point x="749" y="-16" type="curve" smooth="yes"/>
+      <point x="654" y="-16"/>
+      <point x="604" y="22"/>
+      <point x="580" y="87" type="curve" smooth="yes"/>
+      <point x="420" y="525" type="line"/>
+    </contour>
+  </outline>
+</glyph>

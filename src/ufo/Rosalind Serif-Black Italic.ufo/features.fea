@@ -1,0 +1,104 @@
+feature locl {
+script latn;
+language AZE ;
+sub i by i.cy;
+language CAT ;
+sub l periodcentered' l by ldot ;
+sub L periodcentered' L by Ldot ;
+language MOL ;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+sub uni0162 by uni021A;
+sub uni0163 by uni021B;
+language NLD ;
+sub Iacute J by IJ_acutecomb;
+sub iacute j by ij_acutecomb;
+language ROM ;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+sub uni0162 by uni021A;
+sub uni0163 by uni021B;
+language TRK ;
+sub i by i.cy;
+} locl;
+
+feature ordn {
+script latn;
+sub [zero one two three four five six seven eight nine ] a' by ordfeminine ;
+sub [zero one two three four five six seven eight nine ] o' by ordmasculine ;
+language AZE ;
+sub [zero one two three four five six seven eight nine ] a' by ordfeminine ;
+sub [zero one two three four five six seven eight nine ] o' by ordmasculine ;
+language MOL ;
+sub [zero one two three four five six seven eight nine ] a' by ordfeminine ;
+sub [zero one two three four five six seven eight nine ] o' by ordmasculine ;
+language ROM ;
+sub [zero one two three four five six seven eight nine ] a' by ordfeminine ;
+sub [zero one two three four five six seven eight nine ] o' by ordmasculine ;
+language TRK ;
+sub [zero one two three four five six seven eight nine ] a' by ordfeminine ;
+sub [zero one two three four five six seven eight nine ] o' by ordmasculine ;
+} ordn;
+
+feature frac {
+script latn;
+sub zero slash zero zero by perthousand;
+sub zero slash zero by percent;
+sub one slash two by onehalf;
+sub one slash four by onequarter;
+sub three slash four by threequarters;
+language AZE ;
+sub zero slash zero zero by perthousand;
+sub zero slash zero by percent;
+sub one slash two by onehalf;
+sub one slash four by onequarter;
+sub three slash four by threequarters;
+language MOL ;
+sub zero slash zero zero by perthousand;
+sub zero slash zero by percent;
+sub one slash two by onehalf;
+sub one slash four by onequarter;
+sub three slash four by threequarters;
+language ROM ;
+sub zero slash zero zero by perthousand;
+sub zero slash zero by percent;
+sub one slash two by onehalf;
+sub one slash four by onequarter;
+sub three slash four by threequarters;
+language TRK ;
+sub zero slash zero zero by perthousand;
+sub zero slash zero by percent;
+sub one slash two by onehalf;
+sub one slash four by onequarter;
+sub three slash four by threequarters;
+} frac;
+
+feature sups {
+script latn;
+sub one by one.numr;
+sub two by two.numr;
+sub three by three.numr;
+language AZE ;
+sub one by one.numr;
+sub two by two.numr;
+sub three by three.numr;
+language MOL ;
+sub one by one.numr;
+sub two by two.numr;
+sub three by three.numr;
+language ROM ;
+sub one by one.numr;
+sub two by two.numr;
+sub three by three.numr;
+language TRK ;
+sub one by one.numr;
+sub two by two.numr;
+sub three by three.numr;
+} sups;
+
+feature liga {
+script latn;
+sub f l by fl;
+sub f i by fi;
+} liga;
+

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aacute" format="1">
+  <advance width="1236"/>
+  <unicode hex="00C1"/>
+  <note>
+	Aacute
+  </note>
+  <outline>
+    <contour>
+      <point x="96" y="94" type="line"/>
+      <point x="545" y="1353" type="line"/>
+      <point x="693" y="1353" type="line"/>
+      <point x="1142" y="94" type="line"/>
+      <point x="1260" y="77" type="line"/>
+      <point x="1260" y="0" type="line"/>
+      <point x="820" y="0" type="line"/>
+      <point x="820" y="77" type="line"/>
+      <point x="979" y="94" type="line"/>
+      <point x="883" y="381" type="line"/>
+      <point x="320" y="381" type="line"/>
+      <point x="226" y="95" type="line"/>
+      <point x="385" y="77" type="line"/>
+      <point x="385" y="0" type="line"/>
+      <point x="-20" y="0" type="line"/>
+      <point x="-20" y="77" type="line"/>
+    </contour>
+    <contour>
+      <point x="851" y="474" type="line"/>
+      <point x="649" y="1074" type="line"/>
+      <point x="598" y="1245" type="line"/>
+      <point x="549" y="1068" type="line"/>
+      <point x="351" y="474" type="line"/>
+    </contour>
+    <contour>
+      <point x="797" y="1767" type="line"/>
+      <point x="798" y="1767" type="line"/>
+      <point x="898" y="1674" type="line"/>
+      <point x="861" y="1626"/>
+      <point x="764" y="1560"/>
+      <point x="667" y="1508" type="curve" smooth="yes"/>
+      <point x="618" y="1481"/>
+      <point x="579" y="1461"/>
+      <point x="549" y="1448" type="curve"/>
+      <point x="548" y="1448" type="line"/>
+      <point x="498" y="1495" type="line"/>
+    </contour>
+  </outline>
+</glyph>

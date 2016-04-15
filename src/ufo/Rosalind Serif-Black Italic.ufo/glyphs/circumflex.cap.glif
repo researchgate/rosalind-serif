@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex.cap" format="1">
+  <advance width="682"/>
+  <note>
+	circumflex.cap
+  </note>
+  <outline>
+    <contour>
+      <point x="341" y="1732" type="line"/>
+      <point x="494" y="1732" type="line"/>
+      <point x="675" y="1425" type="line"/>
+      <point x="568" y="1375" type="line"/>
+      <point x="396" y="1553" type="line"/>
+      <point x="118" y="1376" type="line"/>
+      <point x="26" y="1425" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04AF" format="1">
+  <advance width="1125"/>
+  <unicode hex="04AF"/>
+  <note>
+	uni04AF
+  </note>
+  <outline>
+    <contour>
+      <point x="475" y="57" type="line"/>
+      <point x="114" y="881" type="line"/>
+      <point x="9" y="906" type="line"/>
+      <point x="9" y="1001" type="line"/>
+      <point x="488" y="1001" type="line"/>
+      <point x="488" y="906" type="line"/>
+      <point x="341" y="882" type="line"/>
+      <point x="578" y="238" type="line"/>
+      <point x="599" y="175" type="line"/>
+      <point x="620" y="240" type="line"/>
+      <point x="862" y="881" type="line"/>
+      <point x="714" y="906" type="line"/>
+      <point x="714" y="1001" type="line"/>
+      <point x="1123" y="1001" type="line"/>
+      <point x="1123" y="906" type="line"/>
+      <point x="1008" y="882" type="line"/>
+      <point x="678" y="77" type="line"/>
+      <point x="678" y="-318" type="line"/>
+      <point x="870" y="-341" type="line"/>
+      <point x="870" y="-436" type="line"/>
+      <point x="302" y="-436" type="line"/>
+      <point x="302" y="-341" type="line"/>
+      <point x="475" y="-319" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wgrave" format="1">
+  <advance width="1615"/>
+  <unicode hex="1E80"/>
+  <note>
+	Wgrave
+  </note>
+  <outline>
+    <contour>
+      <point x="789" y="1727" type="line"/>
+      <point x="1021" y="1433" type="line"/>
+      <point x="940" y="1367" type="line"/>
+      <point x="883" y="1388"/>
+      <point x="791" y="1442"/>
+      <point x="722" y="1504" type="curve" smooth="yes"/>
+      <point x="687" y="1535"/>
+      <point x="663" y="1564"/>
+      <point x="649" y="1593" type="curve"/>
+    </contour>
+    <contour>
+      <point x="0" y="1219" type="line"/>
+      <point x="11" y="1309" type="line"/>
+      <point x="492" y="1309" type="line"/>
+      <point x="484" y="1218" type="line"/>
+      <point x="359" y="1196" type="line"/>
+      <point x="449" y="410" type="line"/>
+      <point x="473" y="210" type="line"/>
+      <point x="532" y="385" type="line"/>
+      <point x="810" y="1082" type="line"/>
+      <point x="798" y="1198" type="line"/>
+      <point x="677" y="1219" type="line"/>
+      <point x="685" y="1309" type="line"/>
+      <point x="1182" y="1309" type="line"/>
+      <point x="1170" y="1218" type="line"/>
+      <point x="1041" y="1196" type="line"/>
+      <point x="1121" y="410" type="line"/>
+      <point x="1131" y="210" type="line"/>
+      <point x="1201" y="396" type="line"/>
+      <point x="1535" y="1195" type="line"/>
+      <point x="1376" y="1218" type="line"/>
+      <point x="1385" y="1309" type="line"/>
+      <point x="1831" y="1309" type="line"/>
+      <point x="1821" y="1219" type="line"/>
+      <point x="1698" y="1197" type="line"/>
+      <point x="1158" y="-9" type="line"/>
+      <point x="932" y="-9" type="line"/>
+      <point x="845" y="826" type="line"/>
+      <point x="511" y="-9" type="line"/>
+      <point x="287" y="-9" type="line"/>
+      <point x="114" y="1196" type="line"/>
+    </contour>
+  </outline>
+</glyph>

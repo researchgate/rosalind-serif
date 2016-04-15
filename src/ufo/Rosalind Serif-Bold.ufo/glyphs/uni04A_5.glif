@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04A5" format="1">
+  <advance width="1590"/>
+  <unicode hex="04A5"/>
+  <note>
+	uni04A5
+  </note>
+  <outline>
+    <contour>
+      <point x="1283" y="118" type="line"/>
+      <point x="1283" y="0" type="line"/>
+      <point x="755" y="0" type="line"/>
+      <point x="755" y="118" type="line"/>
+      <point x="878" y="136" type="line"/>
+      <point x="878" y="455" type="line"/>
+      <point x="484" y="455" type="line"/>
+      <point x="484" y="136" type="line"/>
+      <point x="607" y="118" type="line"/>
+      <point x="607" y="0" type="line"/>
+      <point x="79" y="0" type="line"/>
+      <point x="79" y="118" type="line"/>
+      <point x="196" y="136" type="line"/>
+      <point x="196" y="863" type="line"/>
+      <point x="77" y="886" type="line"/>
+      <point x="77" y="1001" type="line"/>
+      <point x="605" y="1001" type="line"/>
+      <point x="605" y="886" type="line"/>
+      <point x="484" y="863" type="line"/>
+      <point x="484" y="584" type="line"/>
+      <point x="878" y="584" type="line"/>
+      <point x="878" y="865" type="line"/>
+      <point x="757" y="886" type="line"/>
+      <point x="757" y="1001" type="line"/>
+      <point x="1556" y="1001" type="line"/>
+      <point x="1567" y="585" type="line"/>
+      <point x="1399" y="585" type="line"/>
+      <point x="1340" y="870" type="line"/>
+      <point x="1166" y="879" type="line"/>
+      <point x="1166" y="136" type="line"/>
+    </contour>
+  </outline>
+</glyph>

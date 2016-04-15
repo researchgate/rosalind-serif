@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2206" format="1">
+  <advance width="1556"/>
+  <unicode hex="2206"/>
+  <note>
+	uni2206
+  </note>
+  <outline>
+    <contour>
+      <point x="726" y="1334" type="line"/>
+      <point x="769" y="1334" type="line"/>
+      <point x="1432" y="36" type="line"/>
+      <point x="1412" y="1" type="line"/>
+      <point x="143" y="1" type="line"/>
+      <point x="125" y="35" type="line"/>
+    </contour>
+    <contour>
+      <point x="673" y="839" type="line"/>
+      <point x="392" y="194" type="line"/>
+      <point x="988" y="194" type="line"/>
+    </contour>
+  </outline>
+</glyph>

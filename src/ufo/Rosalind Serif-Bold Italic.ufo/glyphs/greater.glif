@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater" format="1">
+  <advance width="1176"/>
+  <unicode hex="003E"/>
+  <note>
+	greater
+  </note>
+  <outline>
+    <contour>
+      <point x="215" y="154" type="line"/>
+      <point x="240" y="353" type="line"/>
+      <point x="869" y="648" type="line"/>
+      <point x="310" y="950" type="line"/>
+      <point x="331" y="1141" type="line"/>
+      <point x="1096" y="703" type="line"/>
+      <point x="1083" y="593" type="line"/>
+    </contour>
+  </outline>
+</glyph>

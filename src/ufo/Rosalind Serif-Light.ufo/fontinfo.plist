@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>2014</integer>
+	<key>capHeight</key>
+	<integer>1339</integer>
+	<key>copyright</key>
+	<string>Copyright (c) 2016 ResearchGate</string>
+	<key>descender</key>
+	<integer>-560</integer>
+	<key>familyName</key>
+	<string>Rosalind Serif</string>
+	<key>license</key>
+	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+	<key>licenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeHeadCreated</key>
+	<string>2016/02/12 10:30:52</string>
+	<key>openTypeNameDesigner</key>
+	<string>Roland Lösslein</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>weaintplastic.com</string>
+	<key>openTypeNameManufacturer</key>
+	<string>ResearchGate</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>researchgate.net</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Rosalind Serif</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Light</string>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>2014</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-560</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
+	<key>openTypeOS2WeightClass</key>
+	<integer>300</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-170</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>96</integer>
+	<key>styleMapFamilyName</key>
+	<string>Rosalind Serif Light</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Light</string>
+	<key>unitsPerEm</key>
+	<integer>2048</integer>
+	<key>vendorID</key>
+	<string>STC </string>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>584</integer>
+	<key>xHeight</key>
+	<integer>1000</integer>
+</dict>
+</plist>
