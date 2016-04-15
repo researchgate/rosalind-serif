@@ -1,6 +1,7 @@
 # Rosalind Serif
 
-Rosalind Serif is a fork of [Merriweather](https://github.com/EbenSorkin/Merriweather)
+Rosalind Serif is a fork of [Merriweather](https://github.com/EbenSorkin/Merriweather) and is released under under
+the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>) with Reserved Font Name 'Rosalind Serif'.
 
 Major Changes:
 
@@ -51,3 +52,11 @@ you should setup your font-stack like this:
 
     font-family: "Rosalind Serif", Georgia, serif;
     
+
+## Licence
+
+Copyright (c) 2016, ResearchGate (www.researchgate.net) with Reserved Font Name 'Rosalind Serif'.
+
+Rosalind Serif is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)
+
+
