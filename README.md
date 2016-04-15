@@ -1,6 +1,6 @@
 # Rosalind Serif
 
-Rosalind Serif is a fork of [Merriweather](https://github.com/EbenSorkin/Merriweather) and is released under under
+Rosalind Serif is a fork of [Merriweather](https://github.com/EbenSorkin/Merriweather) and is released under
 the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>) with Reserved Font Name 'Rosalind Serif'.
 
 Major Changes:
